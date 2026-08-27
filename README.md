@@ -38,10 +38,35 @@ See more [here](https://www.dfrobot.com/product-2321.html)
 
 - Water Pump 5V + silicone tube 1m
 
-- 5V (1A or higher) power supply 
+- 5V (1A or higher) power supply
+
+- 10kΩ resistor
+
+- 220Ω resistor
 
 ----
 ## WIRING
+
+Power supply (+) > Pump (+) 
+
+Power supply (-) > Arduino GND
+
+
+MOSFET gate   > 220Ω resistor > Arduino pin9
+
+MOSFET source > Arduino GND
+
+MOSFET drain  > Pump (-)
+
+Diode (-)  > Pump (+)
+
+Diode (+)  > Pump (-)
+
+
+[See wiring diagram here]
+
+See [here] to understand the wiring
+
 
 ----
 ## CODE AND INSTRUCTIONS
@@ -52,3 +77,5 @@ NOTE: This water pump and tubing moves 1 liter per minute
 ## OTHER TUTORIALS
 
 [How To Use A Water Pump with an Arduino](https://www.youtube.com/watch?v=UEL9NR2Z5BY)
+
+[Control a Pump with Arduino](https://www.youtube.com/watch?v=To3DKP99-1U)
