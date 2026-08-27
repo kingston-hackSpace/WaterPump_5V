@@ -58,6 +58,8 @@ Power supply (-) > Arduino GND
 
 MOSFET gate   > 220Ω resistor > Arduino pin9
 
+MOSFET gate   > 10kΩ resistor > Arduino GND
+
 MOSFET source > Arduino GND
 
 MOSFET drain  > Pump (-)
