@@ -3,7 +3,7 @@
 
 ## WARNING:
 
-The waterpump must be used **UNDERWATER ONLY** (and fully submersed), otherwise, it may overheat and burn the mottor (it is made so the water cools it down).
+The waterpump must be used **UNDERWATER ONLY** (and fully submersed), otherwise, it may overheat and burn the motor (it is made so the water cools it down).
 
 The water level should be higher than the pump.
 
@@ -44,7 +44,7 @@ See more [here](https://www.dfrobot.com/product-2321.html)
 
 - 220Ω resistor
 
-- logic-level N-channel MOSFET (e.g. 2N7000, IRLZ44N, AO3400)
+- logic-level N-channel MOSFET IRLZ44N
 
 - 1N4001 or 1N4007 diode
 
@@ -77,7 +77,14 @@ See [here] to understand the wiring
 ----
 ## CODE AND INSTRUCTIONS
 
-NOTE: This water pump and tubing moves 1 liter per minute
+Download [this code] and upload it to your board. 
+
+*WARNING!* : The waterpump must be used **UNDERWATER ONLY** (and fully submersed), otherwise, it may overheat and burn the motor  
+
+----
+## WATER-PROFFING
+
+
 
 ----
 ## OTHER TUTORIALS
