@@ -71,7 +71,16 @@ Diode (+)  > Pump (-)
 
 [See wiring diagram here]
 
-See [here] to understand the wiring
+----
+## Understanding the circuit:
+
+The MOSFET receives an on/off signal from Arduino pin9, signal that allows current to flow through to the pump.
+
+The diode, by allowing current in only one direction, prevents voltage spikes from damaging the MOSFET when powering the pump.
+
+220Ω resistor protects pin 9 from current spikes from the MOSFET. 
+
+10kΩ resistor behaves as a pull-down resistor, holding the gate at 0V so the pump stays off during set-up. 
 
 
 ----
@@ -82,7 +91,7 @@ Download [this code] and upload it to your board.
 *WARNING!* : The waterpump must be used **UNDERWATER ONLY** (and fully submersed), otherwise, it may overheat and burn the motor  
 
 ----
-## WATER-PROFFING
+## WATER-PROOFING
 
 
 
