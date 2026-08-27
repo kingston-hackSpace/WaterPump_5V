@@ -44,6 +44,10 @@ See more [here](https://www.dfrobot.com/product-2321.html)
 
 - 220Ω resistor
 
+- logic-level N-channel MOSFET (e.g. 2N7000, IRLZ44N, AO3400)
+
+- 1N4001 or 1N4007 diode
+
 ----
 ## WIRING
 
