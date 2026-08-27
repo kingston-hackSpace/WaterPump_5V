@@ -3,7 +3,7 @@
 
 ## WARNING:
 
-The waterpump must be used **UNDERWATER ONLY**, otherwise, it may overheat and burn the mottor (it is made so the water cools it down).
+The waterpump must be used **UNDERWATER ONLY** (and fully submersed), otherwise, it may overheat and burn the mottor (it is made so the water cools it down).
 
 The water level should be higher than the pump.
 
