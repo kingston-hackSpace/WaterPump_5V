@@ -38,6 +38,8 @@ See more [here](https://www.dfrobot.com/product-2321.html)
 
 - Water Pump 5V + silicone tube 1m
 
+- 5V (1A or higher) power supply 
+
 ----
 ## WIRING
 
