@@ -3,7 +3,7 @@
 
 ## WARNING:
 
-To be used underwater only, otherwise, it may overheat (it is made so the water cools it down).
+The waterpump must be used UNDERWATER ONLY, otherwise, it may overheat (it is made so the water cools it down).
 
 ----
 ## HARDWARE
