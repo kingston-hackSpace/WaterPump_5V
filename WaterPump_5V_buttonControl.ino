@@ -12,6 +12,7 @@ const int BUTTON_PIN = 4;   // button to GND, using the internal pull-up
 const int PUMP_SPEED = 90;  // min speed = 0 ; max speed = 255
  
 void setup() {
+  Serial.begin(9600);
   pinMode(PUMP_PIN, OUTPUT);
   pinMode(BUTTON_PIN, INPUT_PULLUP);
   analogWrite(PUMP_PIN, 0);   // pump off at boot
@@ -22,8 +23,10 @@ void loop() {
 
  if (pressed) {
   analogWrite(PUMP_PIN, PUMP_SPEED);
+  Serial.println("pump on");
 } else {
   analogWrite(PUMP_PIN, 0);
+  Serial.println("pump off");
 }
 
 }
