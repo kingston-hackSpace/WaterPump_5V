@@ -88,7 +88,7 @@ The diode, by allowing current in only one direction, prevents voltage spikes fr
 ----
 ## CODE AND INSTRUCTIONS
 
-Download [this code] and upload it to your board. 
+Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V.ino) and upload it to your board. 
 
 *WARNING!* : The waterpump must be used **UNDERWATER ONLY** (and fully submersed), otherwise, it may overheat and burn the motor  
 
