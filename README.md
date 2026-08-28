@@ -96,7 +96,7 @@ The diode, by allowing current in only one direction, prevents voltage spikes fr
 
 **3. Water pump via button control** : 
 
-  - add a button to your circuit. See [diagram here]
+  - add a button to your circuit. See [diagram here](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V_buttonControlbb.jpg)
    
   - Download [this code] and upload it to your board. 
 
