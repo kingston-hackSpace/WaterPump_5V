@@ -98,7 +98,7 @@ The diode, by allowing current in only one direction, prevents voltage spikes fr
 
   - add a button to your circuit. See [diagram here](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V_buttonControlbb.jpg)
    
-  - Download [this code] and upload it to your board. 
+  - Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V_buttonControl.ino) and upload it to your board. 
 
 ----
 ## WATER-PROOFING your project
