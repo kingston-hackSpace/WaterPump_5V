@@ -92,12 +92,16 @@ The diode, by allowing current in only one direction, prevents voltage spikes fr
 
 Water pump ON/OFF : Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V.ino) and upload it to your board. 
 
-Water pump speed control : Download [this code] and upload it to your board. 
+Water pump speed control : Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V_speedControl.ino) and upload it to your board. 
 
 ----
-## WATER-PROOFING
+## WATER-PROOFING your project
 
+Water and electricity are dangerious companions. If you drop water on your electronic equipment, it can trigger a short-cut and damage the equipment.
 
+Waterproofing wire connections: use [Solder Seal Wire Connectors.](https://www.connectormanufacturer.com/solder-seal-wire-connectors/) This connectos withstand water-exposure and even brief submersion without water ingress. They are **NOT SUITABLE for water submertion**. 
+
+Waterproofing Arduino Box: we advise the use of waterproof cases like [this one](https://thepihut.com/products/flanged-weatherproof-enclosure-with-pg-7-cable-glands) to protect your electronics. 
 
 ----
 ## OTHER TUTORIALS
