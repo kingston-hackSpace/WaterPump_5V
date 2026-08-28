@@ -19,5 +19,11 @@ void setup() {
  
 void loop() {
   bool pressed = (digitalRead(BUTTON_PIN) == LOW);   // LOW = pressed (pull-up)
-  analogWrite(PUMP_PIN, pressed ? PUMP_SPEED : 0);
+
+ if (pressed) {
+  analogWrite(PUMP_PIN, PUMP_SPEED);
+} else {
+  analogWrite(PUMP_PIN, 0);
+}
+
 }
