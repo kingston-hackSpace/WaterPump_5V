@@ -53,7 +53,7 @@ See more [here](https://www.dfrobot.com/product-2321.html)
 
 [See MOSFET pinout here](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/IRLZ34N-Pinout.jpg)
 
-[See wiring diagram here]
+[See wiring diagram here](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V_bb.jpg)
 
 Power supply (+) > Pump (+) 
 
