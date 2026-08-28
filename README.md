@@ -97,9 +97,9 @@ Water pump speed control : Download [this code](https://github.com/kingston-hack
 ----
 ## WATER-PROOFING your project
 
-Water and electricity are dangerious companions. If you drop water on your electronic equipment, it can trigger a short-cut and damage the equipment.
+Water and electricity are dangerous together. If you drop water on your electronic equipment, it can trigger a short circuit and damage the equipment.
 
-Waterproofing wire connections: use [Solder Seal Wire Connectors.](https://www.connectormanufacturer.com/solder-seal-wire-connectors/) This connectos withstand water-exposure and even brief submersion without water ingress. They are **NOT SUITABLE for water submertion**. 
+Waterproofing wire connectors: use [Solder Seal Wire connectors.](https://www.connectormanufacturer.com/solder-seal-wire-connectors/) They resist water exposure and splashing, but are **NOT SUITABLE for submersion**.
 
 Waterproofing Arduino Box: we advise the use of waterproof cases like [this one](https://thepihut.com/products/flanged-weatherproof-enclosure-with-pg-7-cable-glands) to protect your electronics. 
 
