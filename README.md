@@ -90,9 +90,15 @@ The diode, by allowing current in only one direction, prevents voltage spikes fr
 
 *WARNING!* : The waterpump must be used **UNDERWATER ONLY** (and fully submersed), otherwise, it may overheat and burn the motor  
 
-Water pump ON/OFF : Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V.ino) and upload it to your board. 
+**1. Water pump ON/OFF** : Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V.ino) and upload it to your board. 
 
-Water pump speed control : Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V_speedControl.ino) and upload it to your board. 
+**2. Water pump speed control** : Download [this code](https://github.com/kingston-hackSpace/WaterPump_5V/blob/main/WaterPump_5V_speedControl.ino) and upload it to your board. 
+
+**3. Water pump via button control** : 
+
+  - add a button to your circuit. See [diagram here]
+   
+  - Download [this code] and upload it to your board. 
 
 ----
 ## WATER-PROOFING your project
